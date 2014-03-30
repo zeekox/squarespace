@@ -32,18 +32,23 @@
 }
 
 @media screen and (min-width: 1400px) {
-  #page-52ea5eb7e4b0529c09eef788 #lock-null{
+  #page-52ea5eb7e4b0529c09eef788 #block-null{
     min-height: 26em;
   }
 }
 @media screen and (min-width: 1500px) {
-  #page-52ea5eb7e4b0529c09eef788 #lock-null{
+  #page-52ea5eb7e4b0529c09eef788 #block-null{
     min-height: 27em;
   }
 }
 @media screen and (min-width: 1600px) {
-  #page-52ea5eb7e4b0529c09eef788 #lock-null{
-    min-height: 33em;
+  #page-52ea5eb7e4b0529c09eef788 #block-null{
+    min-height: 32em;
+  }
+}
+@media screen and (min-width: 1700px) {
+  #page-52ea5eb7e4b0529c09eef788 #block-null{
+    min-height: 35em;
   }
 }
 
