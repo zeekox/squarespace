@@ -1,0 +1,55 @@
+body {
+  background-image: url(https://googledrive.com/host/0B3lm2zDvBaS-UUwyY1lTSV9kMWs/background.png);
+  background-color:#ccc;
+  background-repeat: no-repeat;
+  background-attachment:fixed;
+  background-position:top left;
+}
+
+@media only screen and (min-width : 786px) {
+  body {
+    background-size: 100% auto;
+  }
+}
+
+.main-content {
+  padding-top: 0 !important;
+  margin-top: -16px !important;
+}
+
+.sqs-layout {
+  background-color:#80c8b5;
+  padding: 1em 1.5em;
+}
+
+#page-52bec936e4b0697bbec8b57e, #headerBlocks {
+  padding: 0 !important;
+  background-color: transparent;
+}
+
+#page-52bec936e4b0697bbec8b57e {
+  background-image: url(https://googledrive.com/host/0B3lm2zDvBaS-UUwyY1lTSV9kMWs/frontpage.png);
+  background-repeat: no-repeat;
+  background-position: top left;
+  background-size: 100% auto;
+  width: 100%;
+  height: 1080px;
+  color: #fff;
+}
+
+#page-52bec936e4b0697bbec8b57e .sqs-block {
+  padding: 1.4em 0 0 3.3em;
+  width: 20%;
+  height: 20em;
+  vertical-align: top;
+  font-size: 13px;
+}
+
+#page-52bec936e4b0697bbec8b57e .sqs-block:nth-child(2) {
+  margin-left: 33%;
+}
+
+#page-52bec936e4b0697bbec8b57e .sqs-block:nth-child(3) {
+  margin-top: 1.3em;
+  margin-left: 66%;
+}
