@@ -14,10 +14,6 @@
   padding: 30px 50px !important;
 }
 
-#page-52ea5eb7e4b0529c09eef788 #block-null{
-  min-height: 25em;
-}
-
 @media screen and (min-width: 641px) {
   #main-navigation{
     display: block !important;
@@ -28,6 +24,12 @@
   }
    #main-navigation ul li {
     padding: 0.2em;
+  }
+}
+
+@media screen and (min-width: 1300px) {
+  #page-52ea5eb7e4b0529c09eef788 #block-null{
+    min-height: 25em;
   }
 }
 
