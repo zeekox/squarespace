@@ -21,31 +21,47 @@
 @media screen and (min-width: 641px) {
   #main-navigation{
     display: block !important;
-    width: 100%;
+    width: 84%;
     z-index: 2000;
     position: relative;
+    margin: auto;
   }
-}
-@media screen and (max-width: 1024px) {
-  #main-navigation ul li {
-    padding: 0.2em 0.2em;
+   #main-navigation ul li {
+    padding: 0.2em;
   }
 }
 
-#title-area {
-  display: none;
+// Catchphrase
+#block-738ca69dccb4aaa87abb {
+  margin-top: 26px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+// Logo
+#block-8d70c9a82817c9f1667e{
+  background: none;
+  margin: -1em;
 }
 
 #main-navigation ul {
-  margin: 0.4em 0 0 1.3em;
+  margin: 0.4em 1.1em 0 1.1em;
   text-align: left;
+  background: #fff;
 }
 
 #main-navigation ul li {
   display: inline;
 }
 
-#footer {
+// navigation font
+#main-navigation ul li, #mobile-navigation ul li, #mobile-navigation span:after{
+  font-size: 18px;
+  text-transform: none;
+  font-family: adelle;
+}
+
+#title-area, #footer {
   visibility: hidden;
   display: none;
 }
