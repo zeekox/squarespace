@@ -27,33 +27,6 @@
   }
 }
 
-@media screen and (min-width: 1300px) {
-  #page-52ea5eb7e4b0529c09eef788 #block-null{
-    min-height: 25em;
-  }
-}
-
-@media screen and (min-width: 1400px) {
-  #page-52ea5eb7e4b0529c09eef788 #block-null{
-    min-height: 26em;
-  }
-}
-@media screen and (min-width: 1500px) {
-  #page-52ea5eb7e4b0529c09eef788 #block-null{
-    min-height: 27em;
-  }
-}
-@media screen and (min-width: 1600px) {
-  #page-52ea5eb7e4b0529c09eef788 #block-null{
-    min-height: 32em;
-  }
-}
-@media screen and (min-width: 1700px) {
-  #page-52ea5eb7e4b0529c09eef788 #block-null{
-    min-height: 35em;
-  }
-}
-
 // Catchphrase
 #block-738ca69dccb4aaa87abb {
   margin-top: 26px;
@@ -69,13 +42,16 @@
 
 // text blocks
 #page-52ea889fe4b0a3bfa9aa3352 .html-block{
-  min-height: 27em;
+  min-height: 400px;
 }
 #page-52ea88a7e4b048e6e5e7dddc .html-block {
-   min-height: 28em;
+   min-height: 450px;
+} 
+#page-52ea88a7e4b048e6e5e7dddc .col .image-block{
+   width: 69.5%;
 } 
 #page-52ea8889e4b0fe38b566764b .html-block{
-  min-height: 79em;
+  min-height: 1200px;
 }
 
 // nav font
