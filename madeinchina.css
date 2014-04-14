@@ -84,3 +84,15 @@
 .field {
   margin: 0 !important;
 }
+
+.img-full-size-link {
+  font-size: 18px;
+  text-transform: none;
+  font-family: adelle;
+  position: relative;
+  width: 100%;
+  display: inline-block;
+  text-align: center;
+  cursor: pointer;
+  margin: 0 0 10px 0;
+}
