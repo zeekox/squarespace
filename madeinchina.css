@@ -44,14 +44,21 @@
 #page-52ea889fe4b0a3bfa9aa3352 .html-block{
   min-height: 400px;
 }
-#page-52ea88a7e4b048e6e5e7dddc .html-block {
+#block-bdea1e8319979bb9573b, #block-22fbe449c8694e6fb8f0 {
    min-height: 450px;
 } 
 #page-52ea88a7e4b048e6e5e7dddc .col .image-block{
-   width: 69.5%;
-} 
-#page-52ea8889e4b0fe38b566764b .html-block{
-  min-height: 1200px;
+   width: 71.2%;
+}
+
+#page-52ea88a7e4b048e6e5e7dddc .span-2 .code-block {
+  background: transparent;
+}
+#page-52ea88a7e4b048e6e5e7dddc .span-10 {
+  margin-top: 0.4em;
+}
+#page-52ea88a7e4b048e6e5e7dddc .span-10 .image-block {
+  margin: 0.4em auto;
 }
 
 // nav font
